@@ -21,13 +21,15 @@ python -m venv venv
 ```
 
 2. Activate the virtual environment:
-   ```bash
+```bash
    .\venv\Scripts\activate
-   ```
+```
 3. Install project dependencies:
-   ```bash
+```bash
    pip install -r requirements.txt
-```## Running the API
+```
+
+## Running the API
 
 1. Make sure your virtual environment is activated (see the previous section).
 2. Start the API:
