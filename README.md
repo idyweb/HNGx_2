@@ -31,8 +31,9 @@ python -m venv venv
 
 ## Running the API
 
-1. Make sure your virtual environment is activated (see the previous section).
+1. Make sure your virtual environment is activated.
 2. Start the API:
+
 ```bash
 python app.py
 ```
