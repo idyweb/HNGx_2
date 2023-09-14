@@ -17,5 +17,4 @@ git clone https://github.com/idyweb/HNGx_2.git
 1. Create a virtual environment for the project.
    ```bash
 python -m venv venv
-
 ```
