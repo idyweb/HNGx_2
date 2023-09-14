@@ -15,8 +15,15 @@ git clone https://github.com/idyweb/HNGx_2.git
 
 ##  Setting Up the Virtual Environment
 1. Create a virtual environment for the project.
-   ```bash
-python -m venv venv```
+```bash
+python -m venv venv
+```
 
 2. Activate the virtual environment:
-3. .\venv\Scripts\activate
+   ```bash
+   .\venv\Scripts\activate
+   ```
+3. Install project dependencies:
+   ```bash
+   pip install -r requirements.txt
+```
