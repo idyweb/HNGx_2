@@ -29,8 +29,11 @@ python -m venv venv
    pip install -r requirements.txt
 ```
 
-##  Running the API
+## Running the API
 
 1. Make sure your virtual environment is activated (see the previous section).
-
 2. Start the API:
+```bash
+python app.py
+```
+
